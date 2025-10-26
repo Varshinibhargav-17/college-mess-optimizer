@@ -59,7 +59,7 @@ The application includes a **Gradient Boosting model**, pre-processing pipelines
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/college-mess-optimizer.git
+git clone https://github.com/Varshinibhargav-17/college-mess-optimizer.git
 cd college-mess-optimizer
 ```
 
