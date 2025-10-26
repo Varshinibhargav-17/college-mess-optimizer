@@ -1,0 +1,10 @@
+{
+  "total_records": 894,
+  "date_range": "2024-01-01 00:00:00 to 2024-10-24 00:00:00",
+  "avg_attendance": 438.8758389261745,
+  "total_waste_kg": 27326.010000000002,
+  "total_waste_cost": 3103958.6599999997,
+  "most_popular_meal": "Lunch",
+  "most_popular_menu": "Biryani",
+  "weekend_impact_pct": -26.643169536514744
+}
